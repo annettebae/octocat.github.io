@@ -2,6 +2,10 @@
 
 Welcome to Annette's Github page! 
 
+![nasa](https://user-images.githubusercontent.com/111642111/185759413-1e115429-8231-495f-b2ec-96e888f3b7c1.jpg)
+
+
+
 I am currently a sophomore in Korea University, majoring in International Studies. 
 This page is where I will record my **recent obsessions**, and **review on films**. 
 
