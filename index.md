@@ -6,7 +6,7 @@ I am currently a sophomore in Korea University, majoring in International Studie
 This page is where I will record my **recent obsessions**, and **review on films**. 
 
 # recent obsession
-_Top Gun: Maverick_ : A film dircted by Joseph Kosinski, a sequel to Top Gun (1986). Features **Tom Cruise**(Pete Maverick Mitchell), **Miles Teller**(Bradely Rooster Bradshaw), **Glenn Powell**(Hangman), **Jennifer Connelley**(Penny Benjamin), etc. 
+_Top Gun: Maverick_ : A film directed by Joseph Kosinski, a sequel to Top Gun (1986). Features **Tom Cruise** (Pete 'Maverick' Mitchell), **Miles Teller** (Bradely 'Rooster' Bradshaw), **Glenn Powell** (Jake 'Hangman' Seresin), **Jennifer Connelley** (Penny Benjamin), etc. As a sequel made 36 years after the original film, the critics are blown by the iconic scenes spectacularly homaged. For example, beach volleyball scene has been re-made with One Republic's _<I Ain't Worried>_, and Tom Cruise drives along the Californian highway on his old Kawasaki. The soundtracks from 1986 have also been re-inserted after being slightly eidted by Hans Zimmer and Harold Faltermeyer. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
