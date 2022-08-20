@@ -2,6 +2,9 @@
 
 Welcome to Annette's Github page! 
 
+I am currently a sophomore in Korea University, majoring in International Studies. 
+This page is where I will record my **recent obsessions** and **career developments** and **achievements**. 
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 so, this is not bold. but, **this** is bold. 
