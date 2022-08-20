@@ -3,7 +3,10 @@
 Welcome to Annette's Github page! 
 
 I am currently a sophomore in Korea University, majoring in International Studies. 
-This page is where I will record my **recent obsessions** and **career developments** and **achievements**. 
+This page is where I will record my **recent obsessions**, and **review on films**. 
+
+# recent obsession
+_Top Gun: Maverick_ : A film dircted by Joseph Kosinski, a sequel to Top Gun (1986). Features **Tom Cruise**(Pete Maverick Mitchell), **Miles Teller**(Bradely Rooster Bradshaw), **Glenn Powell**(Hangman), **Jennifer Connelley**(Penny Benjamin), etc. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
